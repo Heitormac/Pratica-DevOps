@@ -16,6 +16,6 @@ while acerto:
         print("Digite um numero válido, de 1 a 20!")
     else:
         if numero_chutado > numero_aleatorio:
-            print(f"O numero secreto é menor que {numero_chutado}")
+            print(f"O numero secreto é menor que: {numero_chutado}")
         else:
-            print(f"O numero secreto é maior que {numero_chutado}")
+            print(f"O numero secreto é maior que: {numero_chutado}")
