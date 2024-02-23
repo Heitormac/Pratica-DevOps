@@ -23,6 +23,6 @@
 - [ ] O código está atualizado com a branch principal?
 
 # Screenshots 
-- Adicione fotos das alterações realizadas no projeto
+- Adicione fotos das alterações realizadas no projeto 
 |        Before        |        After         |
 |-----imagem depois----|-----imagem depois----|
