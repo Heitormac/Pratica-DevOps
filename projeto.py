@@ -7,7 +7,7 @@ acerto = True
  
 while acerto:
     chutes += 1
-    numero_chutado = int(input("Chute um numero inteiro de 1 a 20:"))
+    numero_chutado = int(input("Chute um numero inteiro de 1 a 20: "))
     if numero_chutado == numero_aleatorio:
         print("acertou, parabens!!!")
         print(f"Numero de tentativas: {chutes}")
